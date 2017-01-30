@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">botchat</string>
+    <string name="type_message">Type message</string>
+    <string name="send">send</string>
+</resources>
