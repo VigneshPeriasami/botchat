@@ -1,6 +1,6 @@
 ---
 title: PAGE TITLE I
 layout: template
-filename: README.md
+filename: README
 --- 
 # HELLO
