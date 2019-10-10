@@ -1,6 +1,6 @@
 ---
-title: PAGE TITLE HERE
+title: PAGE TITLE II
 layout: template
-filename: NAME OF THIS .md FILE HERE
+filename: PART.md
 --- 
 # Hello There
